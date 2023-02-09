@@ -1,2 +1,1 @@
-#!/bin/bash 7-movethatfile
-mv /tmp/betty /tmp/my_first_directory/ 7-movethatfile
+#!/bin/bash 10-back
